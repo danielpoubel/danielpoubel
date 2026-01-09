@@ -1,4 +1,4 @@
-## “Desenvolvedor Front-End & Mobile: transformando ideias em experiências digitais”
+## *“Desenvolvedor Front-End & Mobile: transformando ideias em experiências digitais”*
 
 
 
@@ -6,10 +6,10 @@
   <img align="center" alt="Poubel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Poubel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Poubel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg>" />
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg>" />
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg>" />
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg>" />
+  <img align="center" alt="Poubel-Angular" height="30" width="40" src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg>" />
+  <img align="center" alt="Poubel-Ionic" height="30" width="40" src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg>" />
+  <img align="center" alt="Poubel-WordPress" height="30" width="40" src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg>" />
+  <img align="center" alt="Poubel-Git" height="30" width="40" src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg>" />
   <img align="center" alt="Poubel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
