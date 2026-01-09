@@ -1,4 +1,4 @@
-## *“Desenvolvedor Front-End & Mobile: transformando ideias em experiências digitais”*
+## __*Desenvolvedor Front-End & Mobile: transformando ideias em experiências digitais*__
 
 
 
@@ -11,13 +11,10 @@
   <img align="center" alt="Ionic" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="WordPress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Poubel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </p>
 </div>
-
-
-
-  
+ 
   ##
  
 <div> 
@@ -26,7 +23,6 @@
   <a href="https://instagram.com/dandan.poubel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:poubel.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p/>
-  
 </div>
 
 <picture>
