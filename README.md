@@ -17,7 +17,7 @@
    
    
 - **Banco de Dados**:
-  <p>Em breve</p>p>
+_ **Em breve**
   
 - **Outras tecnologias**:
 <br>
