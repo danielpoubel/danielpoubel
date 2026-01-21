@@ -1,6 +1,10 @@
-## __*Desenvolvedor Front-End & Mobile: transformando ideias em experiências digitais*__
+##         __*Desenvolvedor Front-End & Mobile: transformando ideias em experiências digitais*__
 
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielpoubel/danielpoubel/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielpoubel/danielpoubel/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danielpoubel/danielpoubel/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div style="display: inline_block"><br>
  <p align="center">
@@ -24,11 +28,7 @@
   <p/>
 </div>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielpoubel/danielpoubel/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielpoubel/danielpoubel/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danielpoubel/danielpoubel/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <!--
 **danielpoubel/danielpoubel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
