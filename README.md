@@ -1,4 +1,4 @@
-## __*Desenvolvedor Front-End & Mobile: transformando ideias em experiências digitais*__
+## __*Desenvolvedor Full Stack Jr: transformando ideias em experiências digitais*__
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielpoubel/danielpoubel/output/github-contribution-grid-snake-dark.svg">
